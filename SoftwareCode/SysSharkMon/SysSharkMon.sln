@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysSharkMon", "SysSharkMon\SysSharkMon.csproj", "{C9D8957C-1ED3-48D9-8B11-02C84377ABB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D8957C-1ED3-48D9-8B11-02C84377ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D8957C-1ED3-48D9-8B11-02C84377ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D8957C-1ED3-48D9-8B11-02C84377ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D8957C-1ED3-48D9-8B11-02C84377ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B563549F-93CB-43B1-9851-87A3E41AEA56}
+	EndGlobalSection
+EndGlobal
